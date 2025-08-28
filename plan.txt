@@ -1,0 +1,13 @@
+model may want to ask NLQ e.g. "How is auth handled" -rag
+or ask for all calls of a certain method -regex?
+
+metadata for NQLs e.g. "what are this codes imports" or class names
+line ranges
+
+my plan for metadata:
+    - filename
+    - line range
+    - imports
+    - wrapper method or class
+    
+
